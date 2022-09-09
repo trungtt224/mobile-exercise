@@ -1,4 +1,4 @@
-# Weather
+# 1. Weather
 ![alt text](image/weather.png "weather")
 
 Sử dụng React Native phát triển một ứng dụng thời tiết với yêu cầu như sau: 
@@ -18,3 +18,13 @@ Sử dụng React Native phát triển một ứng dụng thời tiết với y�
 3. Sử dụng firebase push notification thông báo khi có sự kiện về bão lũ, ngập lụt. Khi người dùng click thông báo sẽ hiển thị ra 1 bài báo nói về tin tức đó. 
 
 - Ví dụ: Chuẩn bị có siêu Maon. Push 1 notification thông báo về bão Maon. Khi click vào notification hiển thị bài báo về siêu bão Maon (https://vnexpress.net/bao-maon-gay-mua-to-tu-chieu-nay-4503611.html) trên App.
+
+### Target
+
+- Làm quen các core component trong mobile
+- Navigation giữa các screen
+- Giao tiếp với api
+- Handling notification trong app
+- Xây dựng reuse component
+- Quản lí state của app trong mobile
+- Làm việc với native devices features(Location) trong mobile
