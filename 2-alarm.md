@@ -2,11 +2,15 @@
 Xây dựng app báo thức sử dụng native code Android (Java)
 
 ## Yêu cầu
-![alt text](image/alarm/Screen1.jpg "Screen1")
+<!-- ![alt text](image/alarm/Screen1.jpg "Screen1")
 ![alt text](image/alarm/Screen2.jpg "Screen2")
 ![alt text](image/alarm/Screen3.jpg "Screen3")
-![alt text](image/alarm/Screen4.jpg "Screen4")
+![alt text](image/alarm/Screen4.jpg "Screen4") -->
 
+<img src="image/alarm/Screen1.jpg" width="200">
+<img src="image/alarm/Screen2.jpg" width="200">
+<img src="image/alarm/Screen3.jpg" width="200">
+<img src="image/alarm/Screen4.jpg" width="200">
 
 - Khởi tạo báo thức với nhiều loại chuông(ringstone) khác nhau
 - Báo thức có thể được update
